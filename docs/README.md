@@ -1,6 +1,5 @@
 ---
 home: true
-heroImage: /hero.png
 heroText: Trackzon Knonledge Base
 actionText: Get Started →
 actionLink: /features/
@@ -13,7 +12,3 @@ features:
   details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
 footer: Copyright © 2018 Trackzon
 ---
-
-# Hello VuePress
-
-[[toc]]
